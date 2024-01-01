@@ -53,10 +53,12 @@
 
 
 ## Output:
+![image](https://github.com/Kannan-S-coder/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147120710/dbf303d5-860c-45b7-92fa-f3e84cec079b)
 
 
-### Name:
-### Register Number: 
+
+### Name: KANNAN.S
+### Register Number: 212223230098
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
